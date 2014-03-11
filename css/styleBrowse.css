@@ -1,0 +1,207 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+*:focus 
+{ 
+	outline: none; 
+}
+ul
+{
+	list-style-type: none;
+}
+.logo
+{
+	height:80px;
+	background:#413529;
+}
+.LWrapper
+{
+	width:1030px;
+	margin:0px auto;
+	padding-top:10px;
+}
+.LWrapper a
+{
+	padding-top:100px;
+}
+.menu
+{	
+	height:50px;
+	background:linear-gradient(#ffffff,#eeeeee);
+}
+.MWrapper
+{
+	width:1030px;
+	height:50px;
+	background:linear-gradient(#f8f8f8,#eeeeee);
+	margin:0px auto;
+}
+.MWrapper a
+{
+	color:#7f7f7f;
+	text-decoration:none;
+	display: inline-block;
+	font-size: 17px;
+	line-height:2;
+	text-decoration:none;
+	padding:8px 20px 8px 20px;
+	
+}
+.MWrapper ul li
+{
+	display:inline;
+	background:url(../images/menuBG.png) no-repeat right 0;
+}
+#content
+{
+	min-height:300px;
+	background:#e2e2e2;
+	width:100%;
+	float:left;
+}
+.CWrapper
+{
+	margin:0px auto;
+	width:1030px;
+	height:855px;
+	position:relative;
+}
+.form
+{
+	width:225px;
+	height:440px;
+	float:left;
+	margin-top:40px;
+	background:url(../images/FormBG.png) no-repeat;
+	border-radius:5%;
+}
+.formTitle
+{
+	background:url(../images/titleBG.png);
+	height:53px;
+	border-radius:30% 30% 0 0;
+}
+.formTitle p
+{
+	color:#ededed;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	line-height:53px;
+}
+.dropdown-select {
+	position: relative;
+	margin-top:2px;
+	margin-left:10px;
+	height:28px;
+	line-height: 11px;
+	font-size: 12px;
+	color: #62717a;
+	text-shadow: 0 1px white;
+	background:linear-gradient(#f8f8f8,#eeeeee);
+}
+.silver
+ { 
+	color:#e4e2e0;
+	margin-left:10px;
+ }
+ select
+ {
+	width:35%;
+ }
+.make, .model {
+	width:75%;
+}
+.clear
+{
+	clear:both;
+}
+.submit
+{
+	display:block;
+	margin:10px auto;
+	background: url(../images/submitbg.png);
+    border: 0;
+    height: 39px;
+    width:187px; 
+}
+.detailedSearch
+{
+	text-align:center;
+}	
+.detailedSearch a
+{
+	text-align:center;
+	color:#ff5d04;
+}
+.cars
+{
+	width:780px;
+	min-height:600px;
+	float:left;
+	margin-top:20px;
+	margin-left:10px;
+	
+}
+.car
+{
+	width:100%;
+	height:150px;
+	float:left;
+	margin-top:20px;
+	background:white;
+	border-radius:15px;
+}
+.carwrapper
+{
+	width:740px;
+	height:113px;
+	margin:19px auto;
+	position:relative;
+
+}
+.carwrapper img
+{
+	float:left;
+}
+.NKP ul
+{
+	margin:0px;
+	padding:0px;
+	display:inline;
+}
+.NKP li
+{
+	display:inline;
+	list-style:none;
+	float:right;
+	margin-left:25px;
+}
+
+#footer
+{
+	float:left;
+	background:red;
+	width:100%;
+	height:50px;
+	margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

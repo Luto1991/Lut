@@ -1,0 +1,218 @@
+*
+{
+	margin:0px;
+	padding:0px;
+}
+*:focus 
+{ 
+	outline: none; 
+} 
+ul
+{
+	list-style-type: none;
+}
+.logo
+{
+	height:80px;
+	background:#413529;
+}
+.LWrapper
+{
+	width:1030px;
+	margin:0px auto;
+	padding-top:10px;
+}
+.LWrapper a
+{
+	padding-top:100px;
+}
+.menu
+{	
+	height:50px;
+	background:linear-gradient(#ffffff,#eeeeee);
+}
+.MWrapper
+{
+	width:1030px;
+	height:50px;
+	background:linear-gradient(#f8f8f8,#eeeeee);
+	margin:0px auto;
+}
+.MWrapper a
+{
+	color:#7f7f7f;
+	text-decoration:none;
+	display: inline-block;
+	font-size: 17px;
+	line-height:2;
+	text-decoration:none;
+	padding:8px 20px 8px 20px;
+	
+}
+.MWrapper ul li
+{
+	display:inline;
+	background:url(../images/menuBG.png) no-repeat right 0;
+}
+#content
+{
+	height:855px;
+	background:url(../images/BG.png);
+}
+.CWrapper
+{
+	margin:0px auto;
+	width:1030px;
+	height:855px;
+	background:url(../images/CWBG.png) no-repeat;
+	position:relative;
+}
+.form
+{
+	width:300px;
+	height:440px;
+	float:left;
+	margin-top:40px;
+	background:url(../images/FormBG.png) no-repeat;
+	border-radius:5%;
+}
+.formTitle
+{
+	background:url(../images/titleBG.png);
+	height:53px;
+	border-radius:30% 30% 0 0;
+}
+.formTitle p
+{
+	color:#ededed;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+	line-height:53px;
+}
+.dropdown-select {
+	position: relative;
+	margin-top:2px;
+	margin-left:30px;
+	height:28px;
+	line-height: 11px;
+	font-size: 12px;
+	color: #62717a;
+	text-shadow: 0 1px white;
+	background:linear-gradient(#f8f8f8,#eeeeee);
+}
+.silver
+ { 
+	color:#e4e2e0;
+	margin-left:25px;
+ }
+ select
+ {
+	width:35%;
+ }
+.make, .model {
+	width:75%;
+}
+.clear
+{
+	clear:both;
+}
+
+.detailedSearch a
+{
+	text-align:center;
+	color:#ff5d04;
+}
+.clear
+{
+	clear:both;
+}
+.details
+{
+	display:block;
+	margin:10px auto;
+	background: url(../images/details.png);
+    border: 0;
+    height: 28px;
+    width:98px; 
+	cursor:pointer;
+}
+#submit
+{
+	display:block;
+	margin:10px auto;
+	background: url(../images/submitbg.png);
+    border: 0;
+    height: 39px;
+    width:187px; 
+	cursor:pointer;
+	z-index:999;
+	
+}		
+.submit
+{
+	display:block;
+	margin:10px auto;
+	background: url(../images/submitbg.png);
+    border: 0;
+    height: 39px;
+    width:187px; 
+	z-index:0;
+}	
+.detailedSearch
+{
+	text-align:center;
+}
+.topcars
+{
+	position:absolute;
+	height:250px;
+	width:100%;
+	bottom:35px;
+	
+}
+.topcar
+{
+	width:185px;
+	height:250px;
+	float:left;
+	margin-right:10px;
+	background:#f5f5f5;
+	border-radius:5%;
+}
+.topcar h2
+{
+	text-align:center;
+	margin-bottom:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
